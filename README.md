@@ -29,13 +29,22 @@ Key tools and technologies I work with:
 ---
 
 ## 📂 Portfolio
-Explore detailed documentation and event examples via linked Google Drive folders:
-- Event signal flow diagrams
-- Run of show documents
-- Post-event debriefs
-- Streaming platform UIs
+Explore detailed examples of my work in the following categories:
 
-(See the **Projects** section of the website.)
+🎥 Media Projects
+Event signal flow diagrams
+Run of show documents
+Post-event debriefs
+Streaming platform UIs
+Live streaming productions using vMix, Wirecast, Microsoft Teams, Webex, and NDI
+
+🛡️ Technical Projects
+SaaS platform support and customization (HTML, CSS, JavaScript, APIs)
+Security compliance documentation (SOC 2, NIST, FedRAMP standards)
+Network setup for multi-site communication (e.g., VPN configurations)
+Identity and access management initiatives (Active Directory, Azure IAM)
+
+👉 View portfolios: Links available in the Projects section of herbertbyrd.site
 
 ---
 
