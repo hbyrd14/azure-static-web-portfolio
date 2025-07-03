@@ -28,6 +28,35 @@ Key tools and technologies I work with:
 
 ---
 
+## 🎓 Academic Research & Projects
+📊 Enterprise Resource Planning (ERP) Vendor Analysis & Selection
+Comprehensive analysis of two vendor proposals for implementing a global SAP ERP system at a U.S.-based aerospace manufacturer.
+
+Evaluated vendor strengths, limitations, security protocols, cost models, and alignment with organizational goals.
+
+Delivered recommendations for vendor selection, contract modifications, and risk mitigation strategies (including security controls, compliance with GDPR and EAR, and IT governance).
+
+👉 Document: Enterprise Resource Planning Implementation Analysis (SAP ERP case study)
+
+🌐 Secure Network Design for Merged Organizations
+Designed a secure, PCI DSS-compliant network topology for a merged enterprise, addressing legacy infrastructure vulnerabilities and compliance requirements.
+
+Proposed the elimination of outdated hardware, implementation of VPNs, creation of network zones (DMZ, internal, admin-only), and multi-layered firewall protections.
+
+Provided remediation plan for identified threats (e.g., default SSH credentials, cleartext data transmission) and justified hardware/software selections for enhanced security.
+
+👉 Document: C700 Secure Network Design
+
+🌎 IT Infrastructure Modernization for Global Expansion
+Developed an IT globalization plan for an international ice cream brand’s 5-year global expansion strategy.
+
+Recommended adoption of hybrid cloud storage, unified communications (Microsoft Teams), modern cloud ERP (SAP S/4HANA or Oracle ERP Cloud), integrated POS, and CRM systems (Salesforce).
+
+Addressed scalability, regulatory compliance, operational efficiency, and customer experience in international markets.
+
+👉 Document: Technological Globalization Plan (MBT2 Task 1)
+---
+
 ## 📂 Portfolio
 Explore detailed examples of my work in the following categories:
 
