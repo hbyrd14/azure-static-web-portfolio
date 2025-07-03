@@ -92,6 +92,7 @@ section p {
   background: #ff9800;
   color: #fff;
   text-decoration: none;
+  text-align:center;
   border-radius: 4px;
   transition: background 0.3s ease;
 }
