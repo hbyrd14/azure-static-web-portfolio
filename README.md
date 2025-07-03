@@ -1,7 +1,7 @@
 # Herbert Byrd Portfolio Website
 
 Welcome to my personal portfolio website!  
-🌐 **Live site:** [herbertbyrd.site](https://herbertbyrd.site)
+🌐 **Live site:** [herbertbyrd.site](http://herbertbyrd.site)
 
 ---
 
@@ -24,7 +24,7 @@ Key tools and technologies I work with:
 - **HTML5 / CSS3 / Vanilla JS**
 - **GitHub** for source control
 - **Azure Static Web Apps** for hosting
-- **Custom domain:** [herbertbyrd.site](https://herbertbyrd.site)
+- **Custom domain:** [herbertbyrd.site](http://herbertbyrd.site)
 
 ---
 
