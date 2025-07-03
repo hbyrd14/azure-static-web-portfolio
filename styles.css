@@ -88,6 +88,7 @@ section p {
 .btn {
   display: inline-block;
   padding: 0.75rem 1.5rem;
+  margin: 10px;
   background: #ff9800;
   color: #fff;
   text-decoration: none;
